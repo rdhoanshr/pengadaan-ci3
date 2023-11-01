@@ -1,0 +1,55 @@
+[33mcommit db55b0b32c5a0cea9a0fcc33573e743a674f43f1[m[33m ([m[1;36mHEAD -> [m[1;32mbaru[m[33m, [m[1;31morigin/baru[m[33m, [m[1;32mmain[m[33m)[m
+Author: rdhoanshr <anshori706@gmail.com>
+Date:   Wed Nov 1 19:09:03 2023 +0800
+
+    first commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..540a84d[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,43 @@[m
+[32m+[m[32m# Sistem-Permintaan-Pengajuan-Pengadaan-Barang-Berbasis-Web[m
+[32m+[m
+[32m+[m[32mAdalah sebuah sistem pengadaan barang sederhana untuk internal perusahaan dan vendor yang sudah dipilih.[m
+[32m+[m
+[32m+[m[32m## Server Requirements[m
+[32m+[m
+[32m+[m[32mPHP versi 5.6 atau terbaru lebih direkomendasikan.[m
+[32m+[m
+[32m+[m[32mProject ini tidak disarankan menggunakan PHP versi 8 karena Codeigniter 3 hanya mendukung hingga versi PHP 7.4.[m
+[32m+[m
+[32m+[m[32mApabila Anda ingin menggunakan versi PHP 8 atau yg lebih baru maka disarankan untuk re-build Project ini menjadi versi Codeigniter 4[m
+[32m+[m
+[32m+[m[32m**PHP Requirements**[m
+[32m+[m
+[32m+[m[32m- Aktifkan PHP extension intl[m
+[32m+[m
+[32m+[m[32m## Installation[m
+[32m+[m
+[32m+[m[32mAda 4 langkah untuk installasi CodeIgniter:[m
+[32m+[m
+[32m+[m[32m```bash[m
+[32m+[m[32m1. Unzip paket project.[m
+[32m+[m[32m2. Pindahkan folder project yang sudah di unzip, ke dalam server anda. Contoh : xampp/htdocs/{nama_folder_project_anda}[m
+[32m+[m[32m3. Buka file application/config/config.php dengan text editor dan setting base URL anda.[m
+[32m+[m[32m4. Buka file application/config/database.php dengan text editor dan setting sesuai dengan database anda.[m
+[32m+[m[32m```[m
+[32m+[m
+[32m+[m[32m## Tech Stack[m
+[32m+[m
+[32m+[m[32m**Client:** Bootstrap 4[m
+[32m+[m
+[32m+[m[32m**Server:** PHP, Codeigniter 3[m
+[32m+[m
+[32m+[m[32m## Used By[m
+[32m+[m
+[32m+[m[32mThis project is used by the following companies:[m
+[32m+[m
+[32m+[m[32m- Universitas Muhammadiyah Banjarmasin[m
+[32m+[m[32m- Rumah Sakit Islam Sultan Agung Banjarbaru[m
+[32m+[m
+[32m+[m[32m## License[m
+[32m+[m
+[32m+[m[32m[MIT](https://choosealicense.com/licenses/mit/)[m
